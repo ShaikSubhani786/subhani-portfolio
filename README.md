@@ -1,16 +1,72 @@
-# React + Vite
+# Shaik Subhani — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive personal portfolio website showcasing my skills, experience, education, and software development projects.
 
-Currently, two official plugins are available:
+## Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 **Portfolio:** https://subhani-portfolio-ten.vercel.app/
 
-## React Compiler
+## About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm **Shaik Subhani**, a Computer Science graduate and Python Full-Stack Developer focused on building practical web applications using modern frontend and backend technologies.
 
-## Expanding the ESLint configuration
+My primary interests include:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Python Development
+- Backend Development
+- Full-Stack Development
+- Cloud Computing
+- DevOps
+
+## Technologies Used
+
+### Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+
+### Development & Deployment
+- Git
+- GitHub
+- Vercel
+
+## Portfolio Sections
+
+- Home
+- About
+- Skills
+- Experience & Training
+- Projects
+- Education & Certifications
+- Contact
+
+## Featured Project
+
+### Smart Inventory Management System
+
+A production-deployed full-stack inventory management application built using:
+
+- React
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- JWT Authentication
+- Cloudinary
+- Docker
+
+The application includes product, category, supplier, stock, purchase, sales, and inventory reporting functionality with Admin/User role-based access control.
+
+**Live Application:**  
+https://smart-inventory-project-sigma.vercel.app/
+
+**GitHub Repository:**  
+https://github.com/ShaikSubhani786/smart-inventory-project
+
+## Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ShaikSubhani786/subhani-portfolio.git
