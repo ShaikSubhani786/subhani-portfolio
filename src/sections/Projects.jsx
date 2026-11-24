@@ -34,6 +34,7 @@ const projects = [
     title: "StockFlow - SaaS Inventory Management System",
     version: "v1.0.0",
     type: "Full-Stack SaaS Project",
+    image: "/projects/dashboard1.png",
     description:
       "A full-stack SaaS inventory management application that helps organizations manage products, monitor stock levels, and track inventory through a centralized dashboard.",
     features: [
