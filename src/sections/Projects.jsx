@@ -29,6 +29,38 @@ const projects = [
       "https://github.com/ShaikSubhani786/smart-inventory-project",
     featured: true,
   },
+
+  {
+    title: "StockFlow - SaaS Inventory Management System",
+    version: "v1.0.0",
+    type: "Full-Stack SaaS Project",
+    description:
+      "A full-stack SaaS inventory management application that helps organizations manage products, monitor stock levels, and track inventory through a centralized dashboard.",
+    features: [
+      "User registration and secure JWT authentication",
+      "Organization-based data isolation",
+      "Product management with create, read, update, and delete operations",
+      "Dashboard displaying total products, stock quantity, and low-stock products",
+      "REST API development using FastAPI",
+      "PostgreSQL database integration with SQLAlchemy and Alembic migrations",
+      "Frontend and backend deployment using Vercel and Render",
+    ],
+    technologies: [
+      "Python",
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+      "SQLAlchemy",
+      "Alembic",
+      "JWT",
+      "Docker",
+      "Neon",
+    ],
+    live: "https://frontend-eta-sepia-31.vercel.app/",
+    github: "https://github.com/ShaikSubhani786/stockflow-mvp",
+    featured: true,
+  },
+
   {
     title:
       "Predicting Lifestyle-Related Health Risks Using Pulse and Sleep Patterns",
